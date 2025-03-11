@@ -1,0 +1,5 @@
+[project]
+name = "justx"
+version = "0.1.0"
+description = "A TUI command launcher built on top of just. Define recipes once, run them anywhere."
+requires-python = ">=3.10"
