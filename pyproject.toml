@@ -5,3 +5,4 @@ description = "A TUI command launcher built on top of just. Define recipes once,
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
