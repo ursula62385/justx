@@ -6,3 +6,4 @@ dist/
 tmp/
 *.tmp
 .cache/
+.pytest_cache/
